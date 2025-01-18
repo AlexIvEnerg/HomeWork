@@ -1,4 +1,4 @@
-package professions;
+package com.company.professions;
 
 public class Person extends Driver {
     int age;

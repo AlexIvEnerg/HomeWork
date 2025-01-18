@@ -1,4 +1,6 @@
-import professions.Driver;
+package com.company.vehicles;
+import com.company.professions.Driver;
+import com.company.details.Engine;
 
 public class SportCar extends Car {
     double speed;
