@@ -4,7 +4,7 @@ public class Main {
         animals[0] = new Dog("Dogs");
         animals[1] = new Cat("Cats");
         animals[2] = new Bear("Bear");
-
+        System.out.println(" ");
         for(Animal animal : animals) {
             System.out.println(animal.makeNoise());
             System.out.println(animal.eat());            

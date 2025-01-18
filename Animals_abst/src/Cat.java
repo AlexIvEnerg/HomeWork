@@ -4,7 +4,7 @@ public class Cat extends Animal {
     }
 
     public String makeNoise() {
-        System.out.println("Noise from" + name);
+        System.out.println("Noise from " + name);
         return "cat meowing";
     }
 
